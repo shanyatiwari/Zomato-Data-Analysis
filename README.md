@@ -1,4 +1,3 @@
-#Zomato-Data-Analysis
 Zomato is an internet giant connecting restaurants to millions of customers. This research is conducted with a motive to answer the following questions:
 
 (a) Do a greater number of restaurants provide online delivery as opposed to offline services?
